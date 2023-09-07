@@ -1,18 +1,27 @@
 .navbar-home {
-    background-color: #b93232;
+    background-color: #ffffff;
     border-color: none;
     border-radius: 0px;
     border: none;
     margin-bottom: 0px;
 }
 
-.navbar-home .navbar-nav > li > a {
-    color: white;
+.about-container {
+    margin-top: 30px;
 }
 
-.navbar-home .navbar-brand {
-    color: #fff;
-    font-weight: bold;
+.first-pic-text {
+    padding-top: 100px;
+}
+
+#header-text {
+    font-family: Saol Display;
+    font-size: 50px;
+}
+
+#first-pic {
+    display: flex;
+    width: 500px;
 }
 
 .carousel-content {
