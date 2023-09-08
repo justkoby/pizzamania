@@ -1,0 +1,52 @@
+.navbar-home {
+    background-color: #ffffff;
+    border-color: none;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+}
+
+.about-container {
+    margin-top: 30px;
+}
+
+.first-pic-text {
+    padding-top: 100px;
+}
+
+#header-text {
+    font-family: Saol Display;
+    font-size: 50px;
+}
+
+#first-pic {
+    display: flex;
+    width: 500px;
+}
+
+.carousel-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.about-pizza {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.pizza-type {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.footer {
+    background-color: #b93232;
+    padding: 1.5rem 0;
+    color: #fff;
+}
